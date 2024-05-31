@@ -1,1 +1,2 @@
 # TgWeatherBot
+# Yandex weather api
